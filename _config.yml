@@ -78,12 +78,6 @@ author:
     icon: fas fa-fw fa-twitter
   - label: Website
     icon: fas fa-fw fa-link
-  - label: Facebook
-    icon: fab fa-fw fa-facebook-square
-  - label: GitHub
-    icon: fab fa-fw fa-github
-  - label: Instagram
-    icon: fab fa-fw fa-instagram
 footer:
   links: []
 include:
