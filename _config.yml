@@ -67,18 +67,17 @@ analytics:
     tracking_id: 
     anonymize_ip: 
 author:
-  name: Your Name
-  avatar: 
-  bio: I am an **amazing** person.
-  location: Somewhere
-  email: 
+  name: ENSrUS
+  avatar: ''
+  bio: ENS are NFT + your identity / alias on the Blockchain + more!  ENS / .eth is
+    the next .com | be early.
+  location: The Blockchain
+  email: ENSrUS@tuta.io
   links:
-  - label: Email
-    icon: fas fa-fw fa-envelope-square
+  - label: Twitter
+    icon: fas fa-fw fa-twitter
   - label: Website
     icon: fas fa-fw fa-link
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
   - label: Facebook
     icon: fab fa-fw fa-facebook-square
   - label: GitHub
